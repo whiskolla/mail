@@ -1,0 +1,17 @@
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\bin\Debug\net6.0-windows\FLP_2.exe
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\bin\Debug\net6.0-windows\FLP_2.deps.json
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\bin\Debug\net6.0-windows\FLP_2.runtimeconfig.json
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\bin\Debug\net6.0-windows\FLP_2.dll
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\bin\Debug\net6.0-windows\FLP_2.pdb
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.Form1.resources
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.dll
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\refint\FLP_2.dll
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.pdb
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\FLP_2.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\учеба 6 сем\FLP_2\obj\Debug\net6.0-windows\ref\FLP_2.dll
